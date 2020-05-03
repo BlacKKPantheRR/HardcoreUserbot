@@ -21,7 +21,7 @@ RUNSREACTS = [
     "`I am a mad person. Plox Ban me.`",
     "`I go away`",
     "`I am just walking off, coz me is too fat.`",
-    "`I Fugged off!`",
+    "`Bhaag betichod Bhaag!`",
 ]
 RAPE_STRINGS = [
      "`Rape Done Drink The Cum`",
